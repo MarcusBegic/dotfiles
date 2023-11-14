@@ -1,0 +1,1 @@
+/home/marcusoft/dotfiles/./google-chrome/gg/SSLErrorAssistant/7/ssl_error_assistant.pb

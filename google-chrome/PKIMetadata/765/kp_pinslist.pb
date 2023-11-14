@@ -1,0 +1,1 @@
+/home/marcusoft/dotfiles/./google-chrome/PKIMetadata/765/kp_pinslist.pb

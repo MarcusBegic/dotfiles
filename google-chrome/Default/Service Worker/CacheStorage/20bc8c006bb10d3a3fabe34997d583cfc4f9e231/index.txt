@@ -1,0 +1,1 @@
+/home/marcusoft/dotfiles/./google-chrome/Default/Service Worker/CacheStorage/20bc8c006bb10d3a3fabe34997d583cfc4f9e231/index.txt

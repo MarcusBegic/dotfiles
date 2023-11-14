@@ -1,0 +1,1 @@
+/home/marcusoft/dotfiles/./google-chrome/Default/trusted_vault.pb

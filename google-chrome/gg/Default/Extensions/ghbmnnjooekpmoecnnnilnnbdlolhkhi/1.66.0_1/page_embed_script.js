@@ -1,0 +1,1 @@
+/home/marcusoft/dotfiles/./google-chrome/gg/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.66.0_1/page_embed_script.js

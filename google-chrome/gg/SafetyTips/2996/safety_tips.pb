@@ -1,0 +1,1 @@
+/home/marcusoft/dotfiles/./google-chrome/gg/SafetyTips/2996/safety_tips.pb
