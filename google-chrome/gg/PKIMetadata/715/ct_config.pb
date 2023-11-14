@@ -1,1 +1,0 @@
-/home/marcusoft/.config/./google-chrome/gg/PKIMetadata/715/ct_config.pb

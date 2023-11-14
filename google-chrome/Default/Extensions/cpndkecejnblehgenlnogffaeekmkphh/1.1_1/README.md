@@ -1,1 +1,0 @@
-/home/marcusoft/.config/./google-chrome/Default/Extensions/cpndkecejnblehgenlnogffaeekmkphh/1.1_1/README.md

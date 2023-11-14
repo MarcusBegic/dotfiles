@@ -1,1 +1,0 @@
-/home/marcusoft/.config/./google-chrome/SSLErrorAssistant/7/ssl_error_assistant.pb

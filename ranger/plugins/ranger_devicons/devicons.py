@@ -1,1 +1,0 @@
-/home/marcusoft/.config/./ranger/plugins/ranger_devicons/devicons.py

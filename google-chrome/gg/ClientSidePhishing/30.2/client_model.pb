@@ -1,1 +1,0 @@
-/home/marcusoft/.config/./google-chrome/gg/ClientSidePhishing/30.2/client_model.pb

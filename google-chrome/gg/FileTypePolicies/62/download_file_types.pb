@@ -1,1 +1,0 @@
-/home/marcusoft/.config/./google-chrome/gg/FileTypePolicies/62/download_file_types.pb

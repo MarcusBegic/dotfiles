@@ -1,1 +1,0 @@
-/home/marcusoft/.config/./ranger/colorschemes/default.py

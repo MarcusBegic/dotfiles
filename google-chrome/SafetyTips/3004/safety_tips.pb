@@ -1,1 +1,0 @@
-/home/marcusoft/.config/./google-chrome/SafetyTips/3004/safety_tips.pb

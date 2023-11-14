@@ -1,1 +1,0 @@
-/home/marcusoft/.config/./bspwm/rices/karla/Theme.sh

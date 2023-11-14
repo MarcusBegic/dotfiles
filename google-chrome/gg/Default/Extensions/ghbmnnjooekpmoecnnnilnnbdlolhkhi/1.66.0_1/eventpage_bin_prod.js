@@ -1,1 +1,0 @@
-/home/marcusoft/.config/./google-chrome/gg/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.66.0_1/eventpage_bin_prod.js

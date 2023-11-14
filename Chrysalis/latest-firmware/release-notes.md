@@ -1,1 +1,0 @@
-/home/marcusoft/.config/./Chrysalis/latest-firmware/release-notes.md

@@ -1,1 +1,0 @@
-/home/marcusoft/.config/./nvim/lua/marcusoft/core/keymaps.lua

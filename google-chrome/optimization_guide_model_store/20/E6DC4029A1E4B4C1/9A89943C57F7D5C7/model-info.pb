@@ -1,1 +1,0 @@
-/home/marcusoft/.config/./google-chrome/optimization_guide_model_store/20/E6DC4029A1E4B4C1/9A89943C57F7D5C7/model-info.pb

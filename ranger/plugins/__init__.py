@@ -1,1 +1,0 @@
-/home/marcusoft/.config/./ranger/plugins/__init__.py
