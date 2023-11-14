@@ -1,0 +1,1 @@
+/home/marcusoft/.config/./google-chrome/gg/Default/Extensions/cjpalhdlnbpafiamejdnhcphjbkeiagm/1.52.2_0/web_accessible_resources/doubleclick_instream_ad_status.js

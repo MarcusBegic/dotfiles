@@ -1,0 +1,1 @@
+/home/marcusoft/.config/./Chrysalis/latest-firmware/firmware-changelog.md

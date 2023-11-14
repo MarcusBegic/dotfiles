@@ -1,0 +1,1 @@
+/home/marcusoft/.config/./bspwm/rices/pamela/Theme.sh

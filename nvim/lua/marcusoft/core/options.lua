@@ -1,0 +1,1 @@
+/home/marcusoft/.config/./nvim/lua/marcusoft/core/options.lua

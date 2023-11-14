@@ -1,0 +1,1 @@
+/home/marcusoft/.config/./google-chrome/gg/OptimizationHints/413/optimization-hints.pb

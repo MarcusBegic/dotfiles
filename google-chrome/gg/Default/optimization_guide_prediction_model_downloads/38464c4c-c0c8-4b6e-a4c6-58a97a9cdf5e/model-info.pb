@@ -1,0 +1,1 @@
+/home/marcusoft/.config/./google-chrome/gg/Default/optimization_guide_prediction_model_downloads/38464c4c-c0c8-4b6e-a4c6-58a97a9cdf5e/model-info.pb

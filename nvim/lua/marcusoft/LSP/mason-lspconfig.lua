@@ -1,0 +1,1 @@
+/home/marcusoft/.config/./nvim/lua/marcusoft/LSP/mason-lspconfig.lua
