@@ -60,6 +60,13 @@
 (map! :leader
       :desc "Open vterm" "o t" #'+vterm/toggle)
 
+;; gptel (Claude AI)
+(after! gptel
+  (setq gptel-model 'claude-sonnet-4-5
+        gptel-backend (gptel-make-anthropic "Claude"
+                        :stream t
+                        :key (lambda () (getenv "ANTHROPIC_API_KEY")))))
+
 
 ;; Whenever you reconfigure a package, make sure to wrap your config in an
 ;; `after!' block, otherwise Doom's defaults may override your settings. E.g.
