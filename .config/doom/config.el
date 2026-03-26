@@ -42,6 +42,11 @@
 ;; change `org-directory'. It must be set before org loads!
 (setq org-directory "~/org/")
 
+;; Treemacs bindings
+(after! treemacs
+  (define-key treemacs-mode-map (kbd "I") #'treemacs-root-down)
+  (define-key treemacs-mode-map (kbd "U") #'treemacs-root-up))
+
 ;; C++ / clangd LSP configuration
 (after! lsp-mode
   (setq lsp-clients-clangd-args '("--header-insertion=never"
