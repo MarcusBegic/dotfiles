@@ -65,6 +65,14 @@
 (map! :leader
       :desc "Open vterm" "o t" #'+vterm/toggle)
 
+;; :W to save like :w
+(evil-ex-define-cmd "W" #'save-buffer)
+
+;; Terminal cursor shape: block in normal, bar in insert
+(unless (display-graphic-p)
+  (add-hook 'evil-insert-state-entry-hook (lambda () (send-string-to-terminal "\e[5 q")))
+  (add-hook 'evil-insert-state-exit-hook  (lambda () (send-string-to-terminal "\e[2 q"))))
+
 ;; gptel (Claude AI)
 (after! gptel
   (setq gptel-model 'claude-sonnet-4-5
