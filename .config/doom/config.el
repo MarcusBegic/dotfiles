@@ -73,15 +73,13 @@
   (add-hook 'evil-insert-state-entry-hook (lambda () (send-string-to-terminal "\e[5 q")))
   (add-hook 'evil-insert-state-exit-hook  (lambda () (send-string-to-terminal "\e[2 q"))))
 
-;; gptel (Claude AI)
-(after! gptel
-  (setq gptel-model 'claude-sonnet-4-5
-        gptel-backend (gptel-make-anthropic "Claude"
-                        :stream t
-                        :key (lambda () (getenv "ANTHROPIC_API_KEY")))))
+;; claude-code
+(use-package! claude-code
+  :config
+  (claude-code-mode))
 
 (map! :leader
-      :desc "Open Claude" "o c" #'gptel)
+      :desc "Open Claude" "o c" #'claude-code)
 
 
 ;; Whenever you reconfigure a package, make sure to wrap your config in an

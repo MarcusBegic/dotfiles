@@ -40,7 +40,12 @@
 ;; (package! builtin-package :pin "1a2b3c4d5e")
 
 
-(package! gptel)
+(package! inheritenv
+  :recipe (:host github :repo "purcell/inheritenv"))
+
+(package! claude-code
+  :recipe (:host github :repo "stevemolitor/claude-code.el"
+           :files ("*.el" (:exclude "images/*"))))
 
 ;; Doom's packages are pinned to a specific commit and updated from release to
 ;; release. The `unpin!' macro allows you to unpin single packages...
