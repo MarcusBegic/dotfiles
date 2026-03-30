@@ -80,6 +80,9 @@
                         :stream t
                         :key (lambda () (getenv "ANTHROPIC_API_KEY")))))
 
+(map! :leader
+      :desc "Open Claude" "o c" #'gptel)
+
 
 ;; Whenever you reconfigure a package, make sure to wrap your config in an
 ;; `after!' block, otherwise Doom's defaults may override your settings. E.g.
